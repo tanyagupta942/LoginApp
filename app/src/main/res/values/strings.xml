@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="password_txt">Password</string>
+    <string name="login_button">Login</string>
+    <string name="welcome_to_the_new_page">Welcome to the new page....</string>
+    <string name="no_of_attempts">No. of attempts</string>
+</resources>
