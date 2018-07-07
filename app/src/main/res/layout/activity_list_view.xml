@@ -6,7 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".ListView">
     <ListView
+        android:id="@+id/mylistview1"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"></ListView>
+        android:layout_height="wrap_content">
+
+    </ListView>
 
 </android.support.constraint.ConstraintLayout>
